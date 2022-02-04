@@ -9,7 +9,11 @@ body
 
 #cabecera
 {
+<<<<<<< HEAD
     background: rgb(207, 212, 136);
+=======
+    background: rgb(201, 209, 126);
+>>>>>>> cabecera
     color: whitesmoke;
     margin: 0;
     padding: 0, 5em;

@@ -9,7 +9,7 @@ body
 
 #cabecera
 {
-    background: darkslategray;
+    background: rgb(207, 212, 136);
     color: whitesmoke;
     margin: 0;
     padding: 0, 5em;
@@ -20,7 +20,7 @@ body
     width: 68%;
     padding: 1em;
     text-align: left;
-    border: 2px solid rgb(124, 118, 94);
+    border: 2px solid rgb(53, 10, 170);
     margin: 0 auto;
 }
 
